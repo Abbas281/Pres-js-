@@ -24,3 +24,9 @@
 >Hoisting in JavaScript is a behavior in which a function or a variable can be used before declaration
 
 ![](/Screenshot_5.png)
+
+# Recurcion 
+
+>A process ( a function in our case ) that calls itself.
+
+![](/0_5xVdki2TFMeVMz-F.jpeg)
