@@ -30,3 +30,9 @@
 >A process ( a function in our case ) that calls itself.
 
 ![](/0_5xVdki2TFMeVMz-F.jpeg)
+
+# Closure 
+
+Closure is one of the most important, and often least understood, concepts in JavaScript. You can think of closure as a way to “remember” and continue to access a function’s scope (its variables) even once the function has finished running.
+
+![](/Screenshot_6.png)
