@@ -11,3 +11,9 @@
  >Global Scope is a term used when a variable is declared outside any of the functions i.e the variables should be declared globally.
 
 ![](/Screenshot_2.png)
+
+# What is Local Scope
+
+>When we declare a function it creates its own scope. So, whenever a function is declared it creates its local scope which is limited to that function. So, it means that if you are declared a variable inside a function it’s limited to it.
+
+![](/Screenshot_3.png)
