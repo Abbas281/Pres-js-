@@ -17,3 +17,10 @@
 >When we declare a function it creates its own scope. So, whenever a function is declared it creates its local scope which is limited to that function. So, it means that if you are declared a variable inside a function it’s limited to it.
 
 ![](/Screenshot_3.png)
+
+!
+# Hoisting 
+
+>Hoisting in JavaScript is a behavior in which a function or a variable can be used before declaration
+
+![](/Screenshot_5.png)
