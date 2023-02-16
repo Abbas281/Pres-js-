@@ -6,7 +6,7 @@
 
  ![](/Screenshot_1.png)
 
- # Global -Scope
+ # Global -Scope.
 
  >Global Scope is a term used when a variable is declared outside any of the functions i.e the variables should be declared globally.
 
